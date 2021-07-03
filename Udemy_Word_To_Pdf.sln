@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy_Word_To_Pdf.Producer", "Udemy_Word_To_Pdf.Producer\Udemy_Word_To_Pdf.Producer.csproj", "{385DBA81-1144-4561-94C7-47E295FB2043}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy_Word_To_Pdf.Consumer", "Udemy_Word_To_Pdf.Consumer\Udemy_Word_To_Pdf.Consumer.csproj", "{B091EF1B-A692-4967-A454-32F402F50882}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{385DBA81-1144-4561-94C7-47E295FB2043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{385DBA81-1144-4561-94C7-47E295FB2043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{385DBA81-1144-4561-94C7-47E295FB2043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{385DBA81-1144-4561-94C7-47E295FB2043}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B091EF1B-A692-4967-A454-32F402F50882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B091EF1B-A692-4967-A454-32F402F50882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B091EF1B-A692-4967-A454-32F402F50882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B091EF1B-A692-4967-A454-32F402F50882}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37CA50BF-C626-40A1-8351-E15673537125}
+	EndGlobalSection
+EndGlobal
